@@ -1,1 +1,1 @@
-<span style="font-family: 'Lucida Console';">foo</span>
+foo<span style="font-family: 'Lucida Console';">foo</span>
