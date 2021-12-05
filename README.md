@@ -1,2 +1,3 @@
 # font
-Ich bin <span style="font-family:Papyrus; font-size:4em;">im test!</span>
+<link rel="stylesheet" media="screen" href="https://fontlibrary.org//face/grundschrift" type="text/css"/> 
+Ich bin <span style="font-family:GrundschriftRegular;  font-weight: normal;font-style: normal; ">im test!</span>
